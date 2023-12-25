@@ -3,9 +3,18 @@
 
 ## This page contains resources to Learn Python 🐍
 
+If you don't have any software installed on your laptop related to python like anaconda, python, vscode, pycharm and others... You can use online editor or workspace to practice
+
+- google colab
+- github codespace 
+- [ineuron neuro-lab](https://neurolab.ineuron.ai/)
+-
+- .   .  .  .
+
 ### 🛣️ Roadmap
 
 - <a href="https://whimsical.com/python-GkY4hVtFpnY75KRNXPCYhT" target="_blank">My Map</a>
+
 
 
 
@@ -50,8 +59,17 @@
     - numpy
     - pandas
     - matplotlib
+-
+-
+-
+- .   .    .    .    .....
 
-
+--------------
+## Coding 
+- [Hacker Rank](https://www.hackerrank.com/profile/kishansutariya23) (try to solve maximum question)
+- [Leetcode](https://leetcode.com/kishansutariya23/) (need some knowledge of [DSA](./DSA.md) to solve maximum problems)
+- codewar
+- 
 -----------
 Note:- 
 - You might like others way of teaching and videos, learn from any one and <strong>DON'T BE IN TUTORIAL HELL.</strong>
