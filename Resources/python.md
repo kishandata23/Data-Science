@@ -74,6 +74,7 @@ If you don't have any software installed on your laptop related to python like a
 Note:- 
 - You might like others way of teaching and videos, learn from any one and <strong>DON'T BE IN TUTORIAL HELL.</strong>
 - Still this page has Roadmap or checklist from where you can know what topics you have covered and what u missed.
+- I will be using free resources available on internet or any other platform in this page
 
 ----
 # 😀 Happy Learning

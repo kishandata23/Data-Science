@@ -36,3 +36,9 @@ Note:-
 
 <img src="../images/Big O.png">
 <img src="../images/Linear DS.png">
+
+
+
+-------------------------------
+Note:-
+- I will be using free resources available on internet or any other platform in this page
