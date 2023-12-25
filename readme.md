@@ -7,7 +7,11 @@
 ### 📖 This Repo contains all the Notes and other resources need to start the Data Science Journey
 
 
+-----------------------------------
+👇 Check below 
 
+<a href="./Resources/" target="_blank">🚏 Resources</a> | <a href="./Notes/">📒 Notes</a> 
+---------------------------------------
 
 
 ### Topics 
