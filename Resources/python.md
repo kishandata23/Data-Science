@@ -1,5 +1,5 @@
 
-# <a href="../readme.md">🏠 Home</a>
+# <a href="../">🏠 Home</a>
 
 ## This page contains resources to Learn Python 🐍
 
