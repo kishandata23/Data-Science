@@ -19,4 +19,13 @@
 ## Roadmap for Learning Data Science
 
 
-### work under progress 
+### ⚒️⚒️ work under progress ⚒️⚒️
+
+- [Roadmap](https://whimsical.com/data-science-BYBgVDUQ5364qwNZtrpTcX)
+
+
+
+----
+
+Note:-
+- This page contains just overview and i will be updating and upgrading the information/plan present here over time.
