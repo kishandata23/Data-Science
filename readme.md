@@ -10,8 +10,7 @@
 -----------------------------------
 ### 👇 Check below 
 
-<a href="./Resources/" target="_blank">🚏 Resources</a> | <a href="./Notes/">📒 Notes</a> 
-<!-- | <a href="./Roadmap/">🗺️ Roadmap</a>  -->
+<a href="./Resources/" target="_blank">🚏 Resources</a> | <a href="./Notes/">📒 Notes</a> | <a href="./Roadmap/">🗺️ Roadmap</a>  
 ---------------------------------------
 
 
