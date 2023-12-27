@@ -11,4 +11,4 @@
 
 ------------
 Note:-
-- I will be using free resources available on internet or any other platform in this page
+- I will be using free or paid resources available on internet or any other platform in this page
