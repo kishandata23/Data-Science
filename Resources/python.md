@@ -8,12 +8,13 @@ If you don't have any software installed on your laptop related to python like a
 - google colab
 - github codespace 
 - [ineuron neuro-lab](https://neurolab.ineuron.ai/)
--
+- .
 - .   .  .  .
 
 ### 🛣️ Roadmap
 
 - <a href="https://whimsical.com/python-GkY4hVtFpnY75KRNXPCYhT" target="_blank">My Map</a>
+- [Roadmap.sh](https://roadmap.sh/python)
 
 
 
