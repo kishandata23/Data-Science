@@ -11,22 +11,22 @@
 
 This is my first attempts.
 
-I’m going to follow Two Main Rules:
+I’m going to follow below Rules:
 
-Code or Learn a minimum of an hour every day for the next 365 days.
+- Code or Learn a minimum of an hour every day for the next 365 days.
 <!-- Tweet your progress every day with the #100DaysOfCode hashtag -->
 My Exceptions:
 
-If I break the streak, I will make sure that i will do double-triple work next day to be consistance.
+- If I break the streak, I will make sure that i will do double-triple work next day to be consistance.
 
-My job work, and few emergencies demands to take a day off
+- My job work, and few emergencies demands to take a day off
 
 ------------------------------
 
 
 
 
-# 100DaysOfCode Day-to-Day Progress
+# 365DaysOfCode Day-to-Day Progress
 ## January
 ### Day 1  [01-jan-2024]
 - Learning Linear Algebra and Statistics

@@ -13,7 +13,7 @@ Jan
 - 10:30 min Stats by Krish Naik [Youtube Live](https://www.youtube.com/playlist?list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
 - As i have basic understanding of python i will cover Stats first and after completing of Python(revision next month) i will recap stats again.
 - if you have No idea of stats then you can start Python then go to Stats. 
-
+- once check with roadmap.sh for more info related to math and stats.
 
 Feb
 - Python complete

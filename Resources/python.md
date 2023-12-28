@@ -66,7 +66,7 @@ If you don't have any software installed on your laptop related to python like a
 - .   .    .    .    .....
 
 --------------
-## Coding 
+## Coding / Practice
 - [Hacker Rank](https://www.hackerrank.com/profile/kishansutariya23) (try to solve maximum question)
 - [Leetcode](https://leetcode.com/kishansutariya23/) (need some knowledge of [DSA](./DSA.md) to solve maximum problems)
 - codewar
