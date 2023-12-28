@@ -110,5 +110,5 @@ Learn topic and do projects
 
 Note:- 
 - Before starting learning for Data Science i have the knowledge of Basic of Python and SQL (solved 67 Leetcode problems) so time taken by me any you will be vary.
+
 - I will be using free resources available on internet or any other platform in this page
-- This page contains just overview and i will be updating and upgrading the information/plan present here over time.
