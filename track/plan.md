@@ -9,6 +9,11 @@ SAT-SUN
 
 Jan
 - Math and Stats (do weekly revision after completing)
+- 11:30 min Maths course
+- 10:30 min Stats by Krish Naik [Youtube Live](https://www.youtube.com/playlist?list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
+- As i have basic understanding of python i will cover Stats first and after completing of Python(revision next month) i will recap stats again.
+- if you have No idea of stats then you can start Python then go to Stats. 
+
 
 Feb
 - Python complete
@@ -31,7 +36,7 @@ Dec
 ----
 
 ----
-
+<!-- 
 - ☑️ Math and Stats (do weekly revision after completing)
 - ☑️ Python pw
 - ☑️
@@ -63,4 +68,4 @@ Dec
 - ☑️
 - ☑️
 - ☑️
-- ☑️
+- ☑️ -->
