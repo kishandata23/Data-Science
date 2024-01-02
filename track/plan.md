@@ -11,6 +11,7 @@ SAT-SUN
 JAN - FEB
 - 21 days:- Math & Stats
 - 40 days:- Python with DSA
+- or llely do both 
 
 MAR - APR
 - 40 days:- Django
