@@ -12,9 +12,15 @@
 ## January
 ### Day1 - Day 10
 - Learning Mathematics and Statistic for Data Science.
-    - Topics i learnt are ***********
+    - Topics i learnt
+        - Recursion, Big O
 - Problem Solved
     - Leetcode :- 
+- Python 
+
+### Day11 - Day 20
+
+
  
  
 -------------

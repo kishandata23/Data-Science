@@ -29,5 +29,28 @@ My Exceptions:
 # 365DaysOfCode Day-to-Day Progress
 ## January
 ### Day 1  [01-jan-2024]
-- Learning Linear Algebra and Statistics
-### Day 1  [01-jan-2024]
+- Python
+    - [Youtube video-1](https://www.youtube.com/watch?v=H21U4jX_SLQ&list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv)
+    - [Youtube video-2](https://www.youtube.com/watch?v=AgikzDtqgIY&list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv&index=2)
+    - [Youtube video-3](https://www.youtube.com/watch?v=yPlC6Y3OpBM&list=PLdpzxOOAlwvKwTyYNJCUwGPvql0TrsPgv&index=3)
+- Math for Data Science
+    - Introduction
+    - Linear Algebra
+    - Vector Operation
+- Programming
+    - Leetcode - [217](https://leetcode.com/problems/contains-duplicate/submissions/1133346023/)
+
+<!-- - DSA  -->
+### Day 2  [02-jan-2024]
+- Python & DSA
+    - [Youtube video-3](https://youtu.be/7sWFBuVwScM?si=bAEXH2sXiX88v3_U) 
+    - [Youtube video-6](https://youtu.be/tvdIGMahlNM?si=qyvWfZTJATGU1shW)
+    - [Youtube video-7](https://youtu.be/oX1whbilkMU?si=p2ltRZXDXiCuOtvq)
+    - [DSA Intro](https://youtu.be/scNEzQPL3X0?si=Cb8nV7Q5oCcTAi5N)
+    - [DSA- Recursion](https://youtu.be/kIIqM_XxJzc?si=938IfuoLGB4Din_u)
+         
+- Math & Stats for Data Science
+    - x
+- Programming
+    - Leetcode - []()
+    

@@ -18,6 +18,7 @@ Note:-
 
 ## Topics to Learn in DS
 
+- [Roadmap](https://whimsical.com/dsa-W5SUsw6VKVWXYuoeJZSnGU)
 - Big O
 - List
 - Recursion
@@ -32,6 +33,16 @@ Note:-
 - Heap
 - Sorting
 
+
+
+
+------
+Youtube Playlist
+- [Code basics Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE3NlJ30EDpxNYU6P2Jylns8)
+- [codebasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
+-
+Blog
+- [geekforgeek](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial)
 ------
 
 <img src="../images/Big O.png">
