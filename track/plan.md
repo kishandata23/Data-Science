@@ -43,6 +43,7 @@ JAN - FEB
 - once check with roadmap.sh for more info related to math and stats.
 
 - Python complete
+    <!-- check paper -->
     - Udemy course
     - PW skills till EDA and FE (packages)
     - ask notes from frnd to see any missing topics (if so add to Roadmap)

@@ -52,6 +52,21 @@ My Exceptions:
 - Math & Stats for Data Science
     - x
 - Programming
-    - Leetcode - [49. Group Anagrams
-](https://leetcode.com/problems/group-anagrams/submissions/1134786852/?submissionId=1134781118)
+    - Leetcode - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/submissions/1134786852/?submissionId=1134781118)
     
+### Day 3 [03-jan-2023]
+- DSA
+    - Stack and Queue
+
+### Day 4 [04-jan-2023]
+- DSA 
+    - Recursion in depth
+- created Notion notes to track python code and done basic math problem solve
+
+
+### Day 5 [05-jan-2023]
+- DSA 
+    - linear search
+    - binary search
+- decorator
+- leetcode - [1 testcase failing]

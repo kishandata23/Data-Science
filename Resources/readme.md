@@ -2,7 +2,7 @@
 
 ## This page contains resources to Learn Data Science
 
-- [Python](./python.md)
+- [Python](./python.html)
 - [SQL](./sql.md)
 - [DSA](./DSA.md)
 - [ml](./ml.md)

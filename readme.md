@@ -16,8 +16,8 @@
 
 ### Topics 
 
-- Maths for Data Science
 - Python
+- Maths for Data Science
 - Flask or Django
 - SQL
 - Linux
